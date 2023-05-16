@@ -10,5 +10,5 @@ ___
 ### Root Mean Square Error Values
 | Models        | Rmse           |
 | :-----------: |:-------------:|
-| Collaborative Filtering | 1.0038 |
-| Hybrid | 1.0013 |
+| Collaborative Filtering | 1.0036 |
+| Hybrid | 1.0016 |
